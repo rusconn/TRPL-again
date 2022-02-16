@@ -1,0 +1,26 @@
+{
+  "name": "my app",
+  "dockerComposeFile": ["../docker-compose.yml", "docker-compose.yml"],
+  "service": "app",
+  "workspaceFolder": "/app",
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "fish",
+    "terminal.integrated.profiles.linux": {
+      "fish": {
+        "path": "/usr/bin/fish",
+        "args": ["-l"]
+      }
+    }
+  },
+  "extensions": [
+    "matklad.rust-analyzer",
+    "tamasfe.even-better-toml",
+    "davidanson.vscode-markdownlint",
+    "irongeek.vscode-env",
+    "mhutchie.git-graph",
+    "ms-ceintl.vscode-language-pack-ja",
+    "ms-azuretools.vscode-docker",
+    "artdiniz.quitcontrol-vscode"
+  ],
+  "shutdownAction": "stopCompose"
+}

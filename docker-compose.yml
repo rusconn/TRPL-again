@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  app:
+    image: trpl-again
+    build:
+      context: .
+    working_dir: /app
+    volumes:
+      - .:/app:cached
+      - target:/app/target
+    environment:
+      - CARGO_BUILD_TARGET_DIR=/app/target
+    tty: true
+
+volumes:
+  target:
