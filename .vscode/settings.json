@@ -5,6 +5,7 @@
     "/app/ch08/stats/Cargo.toml",
     "/app/ch08/pig_latin/Cargo.toml",
     "/app/ch08/staff_list/Cargo.toml",
-    "/app/ch12/minigrep/Cargo.toml"
+    "/app/ch12/minigrep/Cargo.toml",
+    "/app/ch13/Cargo.toml"
   ],
 }
