@@ -4,6 +4,7 @@
     "/app/ch02/guessing_game/Cargo.toml",
     "/app/ch08/stats/Cargo.toml",
     "/app/ch08/pig_latin/Cargo.toml",
-    "/app/ch08/staff_list/Cargo.toml"
+    "/app/ch08/staff_list/Cargo.toml",
+    "/app/ch12/minigrep/Cargo.toml"
   ],
 }
