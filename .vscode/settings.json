@@ -10,6 +10,7 @@
     "/app/ch17/Cargo.toml",
     "/app/ch19/hello_macro/Cargo.toml",
     "/app/ch19/hello_macro/hello_macro_derive/Cargo.toml",
-    "/app/ch19/pancakes/Cargo.toml"
+    "/app/ch19/pancakes/Cargo.toml",
+    "/app/ch20/hello/Cargo.toml"
   ],
 }
