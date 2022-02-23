@@ -7,6 +7,9 @@
     "/app/ch08/staff_list/Cargo.toml",
     "/app/ch12/minigrep/Cargo.toml",
     "/app/ch13/Cargo.toml",
-    "/app/ch17/Cargo.toml"
+    "/app/ch17/Cargo.toml",
+    "/app/ch19/hello_macro/Cargo.toml",
+    "/app/ch19/hello_macro/hello_macro_derive/Cargo.toml",
+    "/app/ch19/pancakes/Cargo.toml"
   ],
 }
